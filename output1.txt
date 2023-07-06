@@ -1,0 +1,75 @@
+generation : 1
+ mean change :0.0
+generation : 2
+ mean change :22.83875667799903
+generation : 3
+ mean change :14.511106497820222
+generation : 4
+ mean change :13.011286681715573
+generation : 5
+ mean change :11.307760070473295
+generation : 6
+ mean change :10.666762054657317
+generation : 7
+ mean change :10.1613214216852
+generation : 8
+ mean change :8.68059631412137
+generation : 9
+ mean change :7.9773156899811015
+generation : 10
+ mean change :8.69865377977217
+generation : 11
+ mean change :8.55841637732787
+generation : 12
+ mean change :6.764483309509798
+generation : 13
+ mean change :4.970035956851777
+generation : 14
+ mean change :5.210936908278418
+generation : 15
+ mean change :4.040991351115635
+generation : 16
+ mean change :1.9280801168965283
+generation : 17
+ mean change :1.4920657211065862
+generation : 18
+ mean change :1.4496765041691169
+generation : 19
+ mean change :1.2032131259613874
+generation : 20
+ mean change :1.1120876149269754
+generation : 21
+ mean change :0.8146980923324528
+generation : 22
+ mean change :0.659450457951713
+generation : 23
+ mean change :0.5003976670201454
+generation : 24
+ mean change :0.5208676732379456
+generation : 25
+ mean change :0.4267331932773147
+generation : 26
+ mean change :0.42166508678456527
+generation : 27
+ mean change :0.41341145833332743
+generation : 28
+ mean change :0.34709832289875536
+generation : 29
+ mean change :0.2717479214519206
+generation : 30
+ mean change :0.2710114534602275
+generation : 31
+ mean change :0.173918644722864
+generation : 32
+ mean change :0.1382992409623076
+generation : 33
+ mean change :0.19260400616331727
+generation : 34
+ mean change :0.15384615384615968
+generation : 35
+ mean change :0.0
+best : [2 0 1 1 1 1 2 0 0 0 2 0 0 2 2 2 2 1 1 0 0 0 2 1 1 0 0 2 0 0 2 2 1 1 2 0 2
+ 1 1 2 0 2 0 2 2 2 2 2 1 0]
+level: ____G_G_MMM___L__L_G_____G___M_L__G__L_GM____L____       
+with score 78 
+win : True
